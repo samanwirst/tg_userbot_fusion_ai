@@ -1,0 +1,6 @@
+import os
+
+API_ID = os.getenv("API_ID")
+API_HASH = os.getenv("API_HASH")
+FUSION_BRAIN_API_KEY = os.getenv("FUSION_BRAIN_API_KEY")
+FUSION_BRAIN_SECRET_KEY = os.getenv("FUSION_BRAIN_SECRET_KEY")

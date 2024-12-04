@@ -1,0 +1,7 @@
+__pycache__
+venv
+.env
+my_account.session
+my_account.session-journal
+/generated_images/*
+!/generated_images/
